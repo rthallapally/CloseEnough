@@ -9,7 +9,6 @@ predefined list of sentences based on your query.
 
 ✅ Enter a query and find the closest matching sentence.
 
-
 ✅ Displays the most similar sentence and the similarity score.
 
 ✅ Uses powerful embeddings from sentence-transformers.
@@ -21,16 +20,19 @@ predefined list of sentences based on your query.
 🚀 HOW TO RUN:
 
 
+
 1️⃣ Clone the repository
 
-# Replace 'username' and 'repository-name' with your actual values
+Replace 'username' and 'repository-name' with your actual values
 git clone https://github.com/username/repository-name.git
 
-# Navigate to the project directory
+Navigate to the project directory
 cd repository-name
 
 
+
 2️⃣ INSTALL DEPENDENCIES:
+
  
 
 4️⃣ RUN THE APP:

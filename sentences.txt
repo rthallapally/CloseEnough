@@ -1,0 +1,20 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+Machine learning is a subset of AI that enables systems to learn from data.
+Natural language processing is a field of AI that enables computers to understand human language.
+Generative AI is transforming industries by creating text, images, and more.
+Embeddings represent text as high-dimensional vectors to capture meaning.
+Streamlit makes Python apps interactive and easy to build.
+Machine learning models need clean, high-quality data to perform well.
+Data is the new oil — fueling modern AI systems.
+You miss 100% of the shots you don’t take. — Wayne Gretzky
+The best way to predict the future is to invent it. — Alan Kay
+Believe you can and you’re halfway there. — Theodore Roosevelt
+Success is not final, failure is not fatal: it is the courage to continue that counts. — Winston Churchill
+Deep learning is a type of machine learning that uses neural networks with many layers.
+Supervised learning trains models on labeled data to make predictions.
+Unsupervised learning finds patterns in unlabeled data.
+Reinforcement learning teaches agents to make decisions by rewarding good actions.
+Chatbots use natural language processing to understand and respond to users.
+AI can help businesses make data-driven decisions.
+Innovation distinguishes between a leader and a follower. — Steve Jobs
+Stay hungry, stay foolish. — Steve Jobs
